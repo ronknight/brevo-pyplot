@@ -1,0 +1,5 @@
+Batch#,	Batch1-A_B-599999-539901-03-21,	Batch1-C-541103-03/22,	Batch1-D-541105-03/22-3PM
+Initial Number,	46648,	46799,	94603
+In-House,	6401,	3046,	1697
+Bouncer,	1636,	357,	351
+DeBounce,	1352,	258,	319
