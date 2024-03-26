@@ -1,5 +1,4 @@
-Brevo,	Batch 1-A 599999 +B 5399012,	Batch-1-C 5411033,	Batch1-D-541105 03/22 3PM2
-Sent,	1343,	258,	319
+Brevo,	Batch1-A_B-599999-539901-03-21,	Batch1-C-541103-03/22,	Batch1-D-541105-03/22-3PM
 Delivered,	88%,	85%,	82%
 Estimated Openers,	13%,	16%,	8%
 Trackable Openers,	11%,	11%,	6%
