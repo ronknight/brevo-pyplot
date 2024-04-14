@@ -1,1 +1,1 @@
-# brevo-pyplot
+# brevo-pyplot-graph
